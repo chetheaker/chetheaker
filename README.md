@@ -13,7 +13,7 @@ Since 2021, I have been passionately learning to code and have completed several
 *   🧠  I'm learning Svelte
 *   🤝  I'm open to collaborating on projects using exciting new technologies
 
-### Skills 
+### My Tech Stack 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="TypeScript" /></a>
