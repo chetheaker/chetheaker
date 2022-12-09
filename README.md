@@ -4,7 +4,7 @@ Hi 👋 My name is Che Theaker
 Full Stack Developer
 --------------------
 
-Since 2021, I have been passionately learning to code and have completed several projects to showcase my skills. I'm constantly seeking out new opportunities to learn and grow as a coder and I'm excited to continue pursuing my passion and contributing to the world of technology.
+Since 2021, I have been passionately learning to code and have completed several projects to showcase my skills. I'm constantly seeking out new opportunities to learn and grow as a coder and I'm excited to continue pursuing my passion and contribute to the world of technology.
 
 *   🌍  I'm based in the United Kingdom
 *   🖥️  See my portfolio at [(coming soon)](http://comingsooon.com)
