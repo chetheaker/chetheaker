@@ -35,4 +35,26 @@ Since 2021, I have been passionately learning to code and have completed several
                           
 <a href="https://www.linkedin.com/in/chetheaker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b>
 <a href="http://www.github.com/chetheaker"><img src="https://github-readme-stats.vercel.app/api?username=chetheaker&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="chetheaker's GitHub stats" /></a>
-<a href="http://www.github.com/chetheaker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chetheaker&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/chetheaker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetheaker&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/chetheaker/tourify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=tourify&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/chetheaker/adopet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=adopet&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/chetheaker/trinity" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=trinity&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/chetheaker/v1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=v1&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/chetheaker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chetheaker&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/chetheaker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetheaker&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>Top Repositories</b>
+<div width="100%" align="center">
+  <a href="https://github.com/chetheaker/tourify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=tourify&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/chetheaker/adopet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=adopet&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div width="100%" align="center">
+  <a href="https://github.com/chetheaker/trinity" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=trinity&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/chetheaker/v1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=v1&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a>
+</div>
