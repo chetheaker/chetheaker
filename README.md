@@ -42,8 +42,8 @@ Since 2021, I have been passionately learning to code and have completed several
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/chetheaker/tourify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=tourify&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/chetheaker/adopet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=adopet&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/chetheaker/tourify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=tourify&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/chetheaker/adopet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=adopet&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/chetheaker/trinity" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=trinity&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/chetheaker/v1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chetheaker&repo=v1&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div>
