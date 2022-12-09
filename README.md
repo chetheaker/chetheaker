@@ -11,7 +11,10 @@ Since 2021, I have been passionately learning to code and have completed several
 *   ✉️  You can contact me at [che.theaker@gmail.com](mailto:che.theaker@gmail.com)
 *   🚀  I'm currently working on [Tourify: A road trip planner application](http://tourify.me)
 *   🧠  I'm learning Svelte
-*   🤝  I'm open to collaborating on new projects using exciting new technologies### Skills 
+*   🤝  I'm open to collaborating on new projects using exciting new technologies
+
+### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
