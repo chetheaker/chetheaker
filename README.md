@@ -9,7 +9,7 @@ Since 2021, I have been passionately learning to code and have completed several
 *   🌍  I'm based in the United Kingdom
 *   🖥️  See my portfolio at [(coming soon)](http://comingsooon.com)
 *   ✉️  You can contact me at [che.theaker@gmail.com](mailto:che.theaker@gmail.com)
-*   🚀  I'm currently working on [Tourify: A road trip planner application](http://tourify.me)
+*   🚀  I'm currently working on [My Portfolio Website](https://github.com/chetheaker/v1)
 *   🧠  I'm learning Svelte
 *   🤝  I'm open to collaborating on projects using exciting new technologies
 
