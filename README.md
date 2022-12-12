@@ -22,7 +22,7 @@ I am a full stack software developer with experience working within the JavaScri
 I have worked with a range of technologies within the JavaScript and TypeScript ecosystem including:
 <br />
 
-<strong>FRONTEND:</strong>
+<strong>FRONTEND: </strong>
 <br />
 <br />
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
