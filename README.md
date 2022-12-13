@@ -4,7 +4,7 @@ Hi 👋 My name is Che Theaker
 Frontend | Backend | Full Stack Developer
 --------------------
 
-I am a full stack software developer with experience working within the JavaScript ecosystem. I am enthusiastic about building high-quality, scalable web applications and I am always looking to improve my skills and take on new challenges.
+I am a full stack software engineer with experience working within the JavaScript ecosystem. I am enthusiastic about building high-quality, scalable web applications and I am always looking to improve my skills and take on new challenges.
 
 *   🌍  I'm based in the United Kingdom
 *   🖥️  See my portfolio at [chetheaker.me](https://chetheaker.me)
