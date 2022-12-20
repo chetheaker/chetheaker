@@ -10,7 +10,7 @@ I am a full stack software engineer with experience working within the JavaScrip
 *   🖥️  See my portfolio at [chetheaker.me](https://chetheaker.me)
 *   ✉️  You can contact me at [che.theaker@gmail.com](mailto:che.theaker@gmail.com)
 *   🚀  I'm currently working on [My Portfolio Website](https://github.com/chetheaker/v1)
-*   🧠  I'm learning Svelte
+*   🧠  I'm learning C#
 *   🤝  I'm open to collaborating on projects using exciting new technologies
 
 ### My Tech Stack 
