@@ -1,4 +1,4 @@
-Hi 👋 My name is Che Theaker
+Hi 👋 My name is Che
 ============================
 
 Frontend | Backend | Full Stack Developer
