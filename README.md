@@ -17,7 +17,6 @@ I am a full stack engineer currently working at a fintech startup in London with
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="TypeScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 
-I have worked with a range of technologies within the JavaScript and TypeScript ecosystem including:
 <br />
 
 <strong>FRONTEND: </strong>
