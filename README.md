@@ -7,7 +7,6 @@ Full Stack Developer
 I am a full stack engineer currently working at a fintech startup in London with experience working within the JavaScript ecosystem. I am enthusiastic about building high-quality, scalable web applications and I am always looking to improve my skills and take on new challenges.
 
 *   🌍  I'm based in the United Kingdom
-*   🖥️  See my portfolio at [chetheaker.me](https://chetheaker.me)
 *   ✉️  You can contact me at [che.theaker@gmail.com](mailto:che.theaker@gmail.com)
 *   🚀  I'm currently working at an exciting tech startup in London
 
